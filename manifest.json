@@ -24,8 +24,7 @@
             "type": "image/png"
         }
 	],
-	
-	"start_url": "index.html",
+	"start_url": "./?mode=pwa",
 	"theme_color": "#ff8000",
 	"background_color": "#ff8000",
 	"orientation": "portrait",
@@ -38,3 +37,4 @@
 	"categories": [
 		"music"
 	]
+}
