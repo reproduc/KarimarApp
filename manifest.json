@@ -1,7 +1,7 @@
 {
-	"name": "Radio Karimar",
-	"short_name": "Radio Karimar",
-	"description": "Musica En Linea  24/7.",
+	"name": "Radio Cielo FM",
+	"short_name": "Radio Cielo FM",
+	"description": "Siempre Contigo  24/7.",
 	"icons" : [
 		 {
             "src": "imagenes/app.png",
@@ -25,8 +25,8 @@
         }
 	],
 	"start_url": "./?mode=pwa",
-	"theme_color": "#ff8000",
-	"background_color": "#ff8000",
+	"theme_color": "#00b6aa",
+	"background_color": "#00b6aa",
 	"orientation": "portrait",
 	"display": "fullscreen",
 	"display_override": [
